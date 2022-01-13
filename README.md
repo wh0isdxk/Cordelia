@@ -12,7 +12,7 @@
 
 
 
-## OWASP Top 10 - 2021 :red_circle:	
+## :red_circle:	 OWASP Top 10 - 2021 
 
 | Vulnerability      | Application      |
 |--------------------|------------------|
@@ -29,7 +29,7 @@
 
 
 
-## OWASP Top 10 Mobile - 2016 :yellow_circle:	
+## :yellow_circle:	 OWASP Top 10 Mobile - 2016 
 
 | Vulnerability       | Application     |
 |---------------------|-----------------|
