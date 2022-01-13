@@ -12,7 +12,7 @@
 
 
 
-## OWASP Top 10 - 2021 
+## OWASP Top 10 - 2021 :desktop_computer:	
 
 | Vulnerability      | Application      |
 |--------------------|------------------|
@@ -29,7 +29,7 @@
 
 
 
-## OWASP Top 10 Mobile - 2016 
+## OWASP Top 10 Mobile - 2016 :iphone:	
 
 | Vulnerability       | Application     |
 |---------------------|-----------------|
