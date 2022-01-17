@@ -33,13 +33,13 @@
 
 | Vulnerability       | Application     |
 |---------------------|-----------------|
-|M1 Improper Platform Usage | Application |
-|M2 Insecure Data Storage | Application |
-|M3 Insecure Communication | Application |
-|M4 Insecure Authentication | Application |
-|M5 Insufficient Cryptography | Application |
-|M6 Insecure Authorization | Application |
-|M7 Client Code Quality | Application |
-|M8 Code Tampering | Application |
-|M9 Reverse Engineering | Application |
-|M10 Extraneous Funcionality | Application |
+|M1 [Improper Platform Usage](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/ImproperUsage.md) | Application |
+|M2 [Insecure Data Storage](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/InsecureData.md) | Application |
+|M3 [Insecure Communication](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/InsecureCommunication.md) | Application |
+|M4 [Insecure Authentication](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/InsecureAuthentication.md) | Application |
+|M5 [Insufficient Cryptography](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/InsufficientCrypto.md) | Application |
+|M6 [Insecure Authorization](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/InsecureAuthorization.md) | Application |
+|M7 [Client Code Quality](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/ClientCodeQuality.md) | Application |
+|M8 [Code Tampering](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/CodeTampering.md) | Application |
+|M9 [Reverse Engineering](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/RevEngineering.md) | Application |
+|M10 [Extraneous Funcionality](https://github.com/wh0isdxk/Cordelia/blob/main/MobileTop10/ExtraneousFuncionality.md) | Application |
